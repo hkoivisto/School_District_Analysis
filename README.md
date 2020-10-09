@@ -16,7 +16,7 @@ Reading and math test scores were reviewed and aggregated across the school dist
   
 ### Method
 
-The pandas .loc function was used wihtin python to search for and replace all math and reading scores fromt he Thomas High School ninth grade class.
+The pandas .loc function was used within python to search for and replace all math and reading scores from the Thomas High School ninth grade class.
 
     ...
       student_data_df.loc[((student_data_df["grade"] == "9th") & (student_data_df["school_name"] == "Thomas High School")), 'reading_score'] = np.nan
