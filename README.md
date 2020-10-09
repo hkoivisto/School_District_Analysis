@@ -22,13 +22,13 @@ Reading and math test scores were reviewed and aggregated across the school dist
      - Thomas High School remained the 2nd ranked school in the district by overall passing percentage.
   - How does replacing the ninth-grade scores affect:
     - Math and Reading Scores by grade?
-     - Because the ninth grade scores were removed, this of course became a null category for THS. The other schools and grades were not affected.
+       - Because the ninth grade scores were removed, this of course became a null category for THS. The other schools and grades were not affected.
     - Scores by school spending?
-     - THS per capita spending fell into the third category, "$630-644 per student." THis category saw no change in average math or reading scores, to the nearest tenth of a point. THis category also saw no change in passing percentages, when rounded to the nearest whole percentage.
+       - THS per capita spending fell into the third category, "$630-644 per student." THis category saw no change in average math or reading scores, to the nearest tenth of a point. THis category also saw no change in passing percentages, when rounded to the nearest whole percentage.
     - Scores by school size?
-     - THS is considred a "Medium" school with 1635 students. Removing the ninth grade scores also did not create an impact for the size category in average scores or passing percentages.
+       - THS is considred a "Medium" school with 1635 students. Removing the ninth grade scores also did not create an impact for the size category in average scores or passing percentages.
     - Scores by school type?
-     - THS is a charter school. Removing the ninth grade scores also did not create an impact for the type category in average scores or passing percentages.
+       - THS is a charter school. Removing the ninth grade scores also did not create an impact for the type category in average scores or passing percentages.
  
 ## Summary
 
